@@ -37,7 +37,7 @@ void main(){
 
     /* Other Variable Declarations Go Here */
     /* Statistics and Printing Functions Go Here */
-
+    printf("Hello World!\n");
 }
 
 /* Add other Implementation File Code Here */
